@@ -3,7 +3,7 @@
 
 
 ## Problem:
-_**How might I design a STEAM toy to help young learners better prepared for the uncertain future of the 21st century?**_
+_**How might I design a STEAM toy to help young learners be well-prepared for the uncertain future of the 21st century?**_
 
 STEM is an alternative educational approach that is being used in some schools today to better prepare student from Kindergarten-grade 12 for uncertain futures of the 21st century. However, the reality is that this approach is not very inclusive for girls and boys from diverse groups. In order for future generations to get a fair chance at having an enjoyable life in the 21st-century economy, an emphasis needs to be put on STEAM education approaches. This can be achieved by adding the arts into STEM. This includes concepts such as storytelling and maker education.
 
@@ -63,4 +63,6 @@ I would validate that this is a valid and appropriate solution by conduct many u
 https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-b074-03b22ffd99de.mp4
 
 ## Reflection
+I was able to achieve a Stop Motion animation effect by displaying the images in a slider that would automatically switch every 1-2 seconds. Ideally, if I had more time and resources, I would have liked to have the slider to be an actual stop motion animation. I would have liked to be able scrub back and forth in the timeline of the stop-motion sequence/ slider of images by turning the knob on top of the teaching toy.
 
+The final product does not have any visible bugs. However, I did want to have the ability to change the resolution of a particular image, but that part of the code was giving me lots of trouble, So I decided to have one consistent resolution that the images will be captured at.
