@@ -1,6 +1,7 @@
 # Captutor
 ![captutor](https://user-images.githubusercontent.com/37618137/133952610-4cff61c7-71a0-4e96-9f11-c130ed63e9c4.png)
 
+## Explainer Video
 https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-b074-03b22ffd99de.mp4
 ## Problem:
 _**How might I design a STEAM toy to help young learners better prepared for the uncertain future of the 21st century?**_
@@ -16,7 +17,6 @@ Teachers will use the toy in different ways in the classroom to make learning mo
 The toy will provide a STEAM Education that is inclusive to all genders and ethnicities
 
 ## Process
-
 Conducted Expert Interviews with **teachers** at various schools
 ### Key take aways:
 Teachers are the ones are going to decide if this toy will enhance their classrooms. Therefore, it is important that they fully understand how to use the tool works.
@@ -37,7 +37,17 @@ Students from grades 1-8 will gain access to this teaching tool. The toy will al
 * Changing traditional classrooms into labs or playgrounds 
 * Learning by making
 * Storyboards
-* First Iteration
 
+### First Itteration
+![itteration1](https://user-images.githubusercontent.com/37618137/133952993-d57becef-fb28-4af8-acfb-eeb82f30f639.png)
+
+### Second Itteration
+![itteration2](https://user-images.githubusercontent.com/37618137/133953008-6f88bea8-07e0-4c06-a51a-9676d8397dc3.png)
+
+### System Map
+![systemMap](https://user-images.githubusercontent.com/37618137/133953050-4ae9a4aa-f23f-4f96-bbaa-554799c407e3.png)
+
+## Solution
+![solution](https://user-images.githubusercontent.com/37618137/133953067-c52fb1bd-607c-4846-bbf0-7c4a839a2afd.png)
 Cap-tutor focuses on teaching storytelling by having students capturing pictures of their work in progress from beginning to end. Using all the images collected from the device, students will be able to display their process on a webpage in an engaging manner.
 
