@@ -43,8 +43,11 @@ Students from grades 1-8 will gain access to this teaching tool. The toy will al
 ### Second Itteration
 ![itteration2](https://user-images.githubusercontent.com/37618137/133953008-6f88bea8-07e0-4c06-a51a-9676d8397dc3.png)
 
+### Flow Chart
+![flowChart](https://user-images.githubusercontent.com/37618137/133954560-d62dee36-b772-4cb3-a883-305c394a9bbe.png)
+
 ### System Map
-![systemMap](https://user-images.githubusercontent.com/37618137/133953050-4ae9a4aa-f23f-4f96-bbaa-554799c407e3.png)
+![systemMap](https://user-images.githubusercontent.com/37618137/133954547-f216e903-eb2b-41ab-8692-807064aa744d.png)
 
 ## Solution
 ![solution](https://user-images.githubusercontent.com/37618137/133953067-c52fb1bd-607c-4846-bbf0-7c4a839a2afd.png)
