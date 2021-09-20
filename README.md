@@ -43,7 +43,9 @@ The purpose of this prototype is to aid in the education of kids. The prototype 
 
 ### Second Itteration
 ![itteration2](https://user-images.githubusercontent.com/37618137/133953008-6f88bea8-07e0-4c06-a51a-9676d8397dc3.png)
-The main objective of this prototype is to be able to visually capture work in progress, from the beginning of a project to the final outcome of the project. Then Students would students a great starting point to be able to communicate through storytelling about the steps they took to complete their project.
+I originally wanted to create a tool that would focus on teaching storytelling concepts through the creation geometry. Now my project focuses on only teaching storytelling by having students capturing pictures of their work in progress.
+
+The main objective of this prototype is to be able to visually capture work in progress, from the beginning of a project to the final outcome of the project. Then Students would have a great starting point to be able to communicate through storytelling about the steps they took to complete their project.
 
 ### Flow Chart
 ![flowChart](https://user-images.githubusercontent.com/37618137/133954560-d62dee36-b772-4cb3-a883-305c394a9bbe.png)
@@ -53,7 +55,12 @@ The main objective of this prototype is to be able to visually capture work in p
 
 ## Solution
 ![solution](https://user-images.githubusercontent.com/37618137/133953067-c52fb1bd-607c-4846-bbf0-7c4a839a2afd.png)
-Cap-tutor focuses on teaching storytelling by having students capturing pictures of their work in progress from beginning to end. Using all the images collected from the device, students will be able to display their process on a webpage in an engaging manner.
+Cap-tutor focuses on teaching storytelling by having students capturing pictures of their work in progress from beginning to end. Using all the images collected from the device, students will be able to display their process on a webpage in an engaging manner. 
+
+I would validate that this is a valid and appropriate solution by conduct many usability tests with multiple grades ranging from grade 1-8. I would make sure that I would involve both the students and teachers in my test. I would make sure I would set up the right learning environments with scenarios including providing students different projects to work on. The result of these tests will be able to tell us how much value Captutor can bring to the education industry.
 
 ### Explainer Video
 https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-b074-03b22ffd99de.mp4
+
+## Reflection
+
