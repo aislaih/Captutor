@@ -1,5 +1,5 @@
 # Captutor
-
+https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-b074-03b22ffd99de.mp4
 ## Problem:
 _**How might I design a STEAM toy to help young learners better prepared for the uncertain future of the 21st century?**_
 
@@ -14,6 +14,7 @@ Teachers will use the toy in different ways in the classroom to make learning mo
 The toy will provide a STEAM Education that is inclusive to all genders and ethnicities
 
 ## Process
+
 Conducted Expert Interviews with **teachers** at various schools
 ### Key take aways:
 Teachers are the ones are going to decide if this toy will enhance their classrooms. Therefore, it is important that they fully understand how to use the tool works.
