@@ -66,3 +66,5 @@ https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-
 I was able to achieve a Stop Motion animation effect by displaying the images in a slider that would automatically switch every 1-2 seconds. Ideally, if I had more time and resources, I would have liked to have the slider to be an actual stop motion animation. I would have liked to be able scrub back and forth in the timeline of the stop-motion sequence/ slider of images by turning the knob on top of the teaching toy.
 
 The final product does not have any visible bugs. However, I did want to have the ability to change the resolution of a particular image, but that part of the code was giving me lots of trouble, So I decided to have one consistent resolution that the images will be captured at.
+
+Any feedback on this project is greatly appreciated.
