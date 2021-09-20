@@ -1,4 +1,6 @@
 # Captutor
+![captutor](https://user-images.githubusercontent.com/37618137/133952610-4cff61c7-71a0-4e96-9f11-c130ed63e9c4.png)
+
 https://user-images.githubusercontent.com/37618137/133952437-4fa20a26-900a-4c68-b074-03b22ffd99de.mp4
 ## Problem:
 _**How might I design a STEAM toy to help young learners better prepared for the uncertain future of the 21st century?**_
