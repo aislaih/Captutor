@@ -38,7 +38,7 @@ Students from grades 1-8 will gain access to this teaching tool. The toy will al
 * Storyboards
 
 ### First Itteration
-![itteration1](https://user-images.githubusercontent.com/37618137/133952993-d57becef-fb28-4af8-acfb-eeb82f30f639.png)
+![itteration1](https://user-images.githubusercontent.com/37618137/133954949-4e157d58-dcc2-4d89-81b7-3f7f799ce45b.png)
 
 ### Second Itteration
 ![itteration2](https://user-images.githubusercontent.com/37618137/133953008-6f88bea8-07e0-4c06-a51a-9676d8397dc3.png)
