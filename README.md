@@ -7,6 +7,11 @@ _**How might I design a STEAM toy to help young learners be well-prepared for th
 
 STEM is an alternative educational approach that is being used in some schools today to better prepare student from Kindergarten-grade 12 for uncertain futures of the 21st century. However, the reality is that this approach is not very inclusive for girls and boys from diverse groups. In order for future generations to get a fair chance at having an enjoyable life in the 21st-century economy, an emphasis needs to be put on STEAM education approaches. This can be achieved by adding the arts into STEM. This includes concepts such as storytelling and maker education.
 
+### Some Research
+* 84% of working professionals currently in science and engineering jobs in the U.S who are white or Asian males.(Wired Article) (Source:National Science Foundation)
+* 12%  drop, since 1991, in the number of computer science degrees earned by women in the U.S. (Source: National Science Foundation
+<img width="420" alt="graph" src="https://user-images.githubusercontent.com/37618137/134241747-ab956f50-bb50-482d-8f47-ef27e6178f8a.png">
+
 ### Why this problem?
 As a robotics educator, I have a passion for STEAM education. From my experience, I know students tend to enjoy this type of learning more than the type of education that is found in typical classroom settings.
 
