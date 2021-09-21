@@ -11,8 +11,7 @@ STEM is an alternative educational approach that is being used in some schools t
 * 84% of working professionals currently in science and engineering jobs in the U.S who are white or Asian males.(Wired Article) (Source: [National Science Foundation](http://www.nsf.gov/statistics/wmpd/2013/pdf/nsf13304_digest.pdf))
 * 12%  drop, since 1991, in the number of computer science degrees earned by women in the U.S. (Source: [National Science Foundation](http://www.nsf.gov/statistics/wmpd/2013/pdf/nsf13304_digest.pdf))
 
-<img width="420" alt="graph" src="https://user-images.githubusercontent.com/37618137/134241747-ab956f50-bb50-482d-8f47-ef27e6178f8a.png"> 
-(Source: [Pew Research Center](https://www.pewresearch.org/fact-tank/2021/04/14/6-facts-about-americas-stem-workforce-and-those-training-for-it/))
+<img width="420" alt="graph" src="https://user-images.githubusercontent.com/37618137/134241747-ab956f50-bb50-482d-8f47-ef27e6178f8a.png"> (Source: [Pew Research Center](https://www.pewresearch.org/fact-tank/2021/04/14/6-facts-about-americas-stem-workforce-and-those-training-for-it/))
 
 This project aims to create an educational tool comprised of physical computing components for underrepresented STEAM kids and youth in the Peel district school board. This tool will make students and teachers more aware of the diversity within their classrooms.
 
